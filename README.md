@@ -16,7 +16,7 @@ The third selection is the type of material to use for the upper wing of the cor
 a 10mm slot depth is provided by default - and the rail being rendered in FreeCAD has 28mm wings.   If you select a 16mm depth slot
 the wings will be 34mm.   This takes a lot longer to 3d print. 
 
-The fifth selection is a WAPR factor setting and it is the correction you need for being able to print the part at 45 degrees.  I have a
+The fifth selection is a WARP factor setting and it is the correction you need for being able to print the part at 45 degrees.  I have a
 flat on one corner of the part.  This was created to provide a way to have the part face down on that corner, and eliminate any issues 
 where supports are needed inside of the slots and holes of the rail.  By placing the part where the vertical sides are now 45 degrees 
 instead of 90,  this eliminates any 3d part slicing support issues.  It does create an interesting effect on the actual part creation 
