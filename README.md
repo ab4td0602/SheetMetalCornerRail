@@ -1,5 +1,14 @@
 # SheetMetalCornerRail
 I have python scripts for FreeCAD that will generate FreeCAD drawings for creating  Corner Rails for sheet material.
+These are for making boxes.  You need 4 rails to build a box in order to connect top bottom, and the two sides. These are connected 
+via slots in each rail tailored to the type of sheet material used.   The box ends pieces have to be connected 
+vi 4  5mm screw holes located at the ends of each of the 4 rails.   Not very complicated.  I will provide some pictures as
+I complete some boxes. I need to build a 480 x 110 x 304.8 box to install a 4 axis Gecko 340 servo drive CNC system with a 
+MESA 7i96S controller and using a 60V servo drive power supply. And that is how this project started.  How do you 
+build an sturdy, custom box using a variety of different materials. I have a 12ga alumimun sheet 304.8mm x 609.6mm  and a 
+16ga steel sheet of the same size on hand. So it was sort it out, and make it work.  I did have a lot of help using Gemini
+AI to help create a lot of the python scripts. More so at the beginning, since I had never used python for FreeCAD prior to
+this effort.  Much more comfortable about how the syntax works, but not an expert yet.   
 
 The rail has two wings which are at right angles.  The wings are 11mm wide. The wings are 28mm from the top of the wing to the 
 corner with a slot depth of 10 mm.  Or if you select 16mm slot depth the wings are 34mm from the top of the wing to the corner.
